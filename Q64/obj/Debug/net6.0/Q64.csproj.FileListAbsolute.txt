@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\bin\Debug\net6.0\Q64.exe
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\bin\Debug\net6.0\Q64.deps.json
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\bin\Debug\net6.0\Q64.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\bin\Debug\net6.0\Q64.dll
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\bin\Debug\net6.0\Q64.pdb
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.dll
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\refint\Q64.dll
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.pdb
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\Q64.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q64\obj\Debug\net6.0\ref\Q64.dll
