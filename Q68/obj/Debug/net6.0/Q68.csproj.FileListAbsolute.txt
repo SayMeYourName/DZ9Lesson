@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\bin\Debug\net6.0\Q68.exe
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\bin\Debug\net6.0\Q68.deps.json
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\bin\Debug\net6.0\Q68.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\bin\Debug\net6.0\Q68.dll
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\bin\Debug\net6.0\Q68.pdb
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.dll
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\refint\Q68.dll
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.pdb
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\Q68.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Study\CSemi\DZ9Lesson\Q68\obj\Debug\net6.0\ref\Q68.dll
